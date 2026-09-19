@@ -250,7 +250,7 @@ export default function InvitationModal({ isOpen, onClose, to }) {
                       font-bold
                     `}
                   >
-                    16:30
+                    12:30
                   </span>
                 </div>
               </div>
